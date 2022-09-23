@@ -15,6 +15,8 @@ Rather than making sourdough (my starter lost the evolutionary race after a week
 
 These signs are designed to be printed on photo paper, and stuck with Blu-Tack at the top corners of each wall. There are two signs per street, for each corner of each wall. I only made enough for my own living room, but I've included the .psd template I made if you need to make more of your own. The fonts used are [Taylor Gothic](https://www.dafont.com/taylor-gothic.font) and [Old Road](https://www.roads.org.uk/fonts). 
 
+<img src="https://robsherman.co.uk/spiderlanes/spiderlanes_demo.jpg" />
+
 The signs are based on probably the most recognisable designs here in the UK, [those of the City of Westminster in London](https://commons.wikimedia.org/wiki/Category:Street_signs_in_the_City_of_Westminster).
 
 You are free to use and modify this repo for any personal, non-commerical purpose, but because of the licenses attached to the fonts commercial usage is not permitted.
