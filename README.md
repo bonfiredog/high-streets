@@ -3,9 +3,9 @@
 # The Royal Borough Of Nighthead Traffic Authority
 ### _Printable, minature street signs for the neighbourhoods of house spiders that live at the junction of your ceiling and walls._
 
-During one of the lockdowns, I spent a lot of time looking at the upper portions of my living room, mostly because of the angle at which I was slumped on my sofa. 
+During one of the lockdowns, I spent a lot of time looking at the upper portions of my living room: mostly because of the angle at which I was slumped on my sofa. 
 
-[It must have been autumn](https://metro.co.uk/2022/08/23/sex-crazed-spiders-will-invade-uk-homes-this-autumn-17231453/), as all along the junction of the ceiling and walls were patient, utterly-still rows of house spiders, each surrounded by a bouquet of dead fruitflies (I was, like the rest of the UK, trying to get healthier: the house was full of slowly-softening kiwis). 
+[It must have been autumn](https://metro.co.uk/2022/08/23/sex-crazed-spiders-will-invade-uk-homes-this-autumn-17231453/), as all along the junction of the ceiling and walls were patient, utterly-still rows of house spiders, each surrounded by a bouquet of dead fruitflies (I was, like the rest of the UK, trying to get healthier, and the house was full of slowly-liquefying bananas). 
 
 In all the time I spent watching them, I never saw one spider attack another, or intrude into the four inches of empty space that surrounded each territory. Soon, the line of each wall/ceiling began to look, for all the world, like a long street of polite, mind-their-own-business neighbours. Thinking about them this way, even if it didn't cure my lifelong arachnophobia, certainly made me happier to share space with them. Anthropomorphism has its uses. 
 
@@ -21,4 +21,4 @@ The signs are based on probably the most recognisable designs here in the UK, [t
 
 You are free to use and modify this repo for any personal, non-commerical purpose, but because of the licenses attached to the fonts commercial usage is not permitted.
 
-[^1]: I stopped myself before I started making house names and numbers for each spider, and little doormats out of decapitated toothbrushes. I was worried that I'd upset the spiders if I got too close: they vibrate so violently when my fingers get close that I worry about them shaking themselves to a liquid inside their exoskeletons. Besides, the street's residents had already mated, died and dried into their own tiny, haired gibbets by the time I had the idea. But as I'm writing this now, it is late September of another year; and already new tenants are moving into Pedipalp Drive, Hunters Terrace and Lurking Lane. 
+[^1]: I stopped myself before I started making house names and numbers for each spider, and little doormats out of decapitated toothbrushes. I was worried that I'd upset the residents if I got too close: they vibrate so violently that I worry about them shaking themselves to a paste inside their exoskeletons. Besides, the street's residents had already mated, died and dried into their own tiny, haired gibbets by the time I had the idea. But as I'm writing this now, it is late September of another year; and already new tenants are moving into Pedipalp Drive, Hunters Terrace and Lurking Lane. 
