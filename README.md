@@ -1,21 +1,20 @@
-# spider-streets
-#### _Printable street names for the linear communities of spiders that gather at the junction of your ceiling and wall._
+<img src="https://robsherman.co.uk/spiderlanes/spiderstreet_hero.png" style="width:80%;"/>
 
-During one of the lockdowns, I spent a lot of time looking at the ceiling of my living room. [It must have been autumn](https://metro.co.uk/2022/08/23/sex-crazed-spiders-will-invade-uk-homes-this-autumn-17231453/), as all along the junction of the ceiling and the top of the walls were rows of house spiders, hanging pendulous and as insubstantial as their own webs, surrounded by dead fruitflies like thoughts. They seemed to mind each other's space, with at least two or three inches between each killing field: good neighbours, though keeping up with the Joneses. Each line of wall/ceiling looked, for all the world, like a street of kindly neighbours. 
+# The Royal Borough Of Nighthead Traffic Authority
+### _Printable, minature street signs for the neighbourhoods of house spiders that live at the junction of your ceiling and walls._
 
-Rather than making sourdough (my starter lost the evolutionary race after a week or so) or jogging, I decided my lockdown project would be injecting these little communities with some civic spirit. So I made some street names.
+During one of the lockdowns, I spent a lot of time looking at the upper portions of my living room, mostly because of the angle at which I was slumped on my sofa. 
 
-They are based on the most graphically-recognisable of English street signs, [those of the City of Westminster in London](https://commons.wikimedia.org/wiki/Category:Street_signs_in_the_City_of_Westminster), but in the naming I tried to draw on the coziness of the nomenclature that I remember from my childhood, with an added predators zing. I've included the .psd template if you want to make your own, however. 
+[It must have been autumn](https://metro.co.uk/2022/08/23/sex-crazed-spiders-will-invade-uk-homes-this-autumn-17231453/), as all along the junction of the ceiling and walls were patient, utterly still rows of house spiders; hanging as insubstantial as their webs, and surrounded by a spray of dead fruitflies (I tried to eat more fruit, during all of the lockdowns). 
 
-If you like, you can print these yourself: I used an online service to get a single photo-paper sheet delivered, then cut them out and stuck them in the corners of the living room, 
+In all the time I spent watching them, I never saw one spider attack another, or intrude into the four inches of empty space that surrounded each territory; good neighbours, but keeping up with the Joneses in terms of their killing fields. Soon, the line of each wall/ceiling began to look, for all the world, like a long street of polite, mind-their-own-business neighbours. Thinking about them this way, even if it didn't cure my lifelong arachnophobia, certainly made me happier to share space with them. Anthropomorphism has its uses. 
 
-I stopped myself before I started making house names and numbers for each spider. THey had already died, or left, by this point. I'm writing this in late September, and hoping new tenants will move in to [street name], [street name] and [street name].
+Rather than making sourdough (my starter lost the evolutionary race after a week or so) or jogging, I decided my lockdown project would be to inject these little communities with some civic spirit[^1]. So I made them some addresses. If you live in the northern hemisphere, you can print them out and do the same in your living room. 
 
+---
 
-corners 
+These signs are designed to be printed on photo paper, and stuck with blue tack at the top corners of each wall. There are two signs per street, for each corner of each wall. I only made enough for my own living room, but I've included the .psd template I made if you need to make more of your own. The fonts used were [Taylor Gothic](https://www.dafont.com/taylor-gothic.font) and [Old Road](https://www.roads.org.uk/fonts). 
 
-### Fonts Used
+The signs are based on probably the most recognisable designs here in the UK, [those of the City of Westminster in London](https://commons.wikimedia.org/wiki/Category:Street_signs_in_the_City_of_Westminster).
 
-
-
-It helped my arachnophobia as well. 
+[^1]: I stopped myself before I started making house names and numbers for each spider. I was worried that I'd upset the spiders if I got too close: they vibrate so violently when my fingers get close that I worry about them shaking themselves into pulp inside their exoskeletons). Besides, the residents had already mated, died and dried into tiny, whispy chandeliers by this point. But as I'm writing this now it is late September of another year, and already new tenants are moving into Pedipalp Drive, Hunters Terrace and Lurking Lane. 
