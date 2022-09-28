@@ -1,6 +1,6 @@
 <img src="https://robsherman.co.uk/spiderlanes/spiderstreet_hero.png" style="width:80%;"/>
 
-# The Royal Borough Of Nighthead Traffic Authority
+# High Streets
 ### _Printable, minature street signs for the neighbourhoods of house spiders that live at the junction of your ceiling and walls._
 
 During one of the lockdowns, I spent a lot of time looking at the upper-third of my living room. Slumped on my sofa, the shape of my neck resembling a specialised mathematical symbol, I noticed that all along the junction of the ceiling and walls were patient, utterly-still rows of house spiders, each surrounded by a bouquet of dead fruitflies (I was, like the rest of the UK, trying to get healthier, and the house was full of slowly-liquefying bananas). 
